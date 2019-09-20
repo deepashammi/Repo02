@@ -1,2 +1,2 @@
 Its a first file.
-its a push 
+its a push update
